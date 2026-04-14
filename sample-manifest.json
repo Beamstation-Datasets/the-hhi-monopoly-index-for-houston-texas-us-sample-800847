@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c9401350-16cb-4793-8a8d-67960fc6a147",
+  "id_short": 800847,
+  "published_at": "2026-04-14T19:27:34Z",
+  "repo_name": "the-hhi-monopoly-index-for-houston-texas-us-sample-800847",
+  "sample_asset_name": "beamstation_800847_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/800847/beamstation_800847_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 29,
+  "sample_sha256": "a947861c2c122797dec514cb48cbd32ae31ad14d631fe17a440eeb8ac6c64fe6",
+  "sample_size_bytes": 127857,
+  "total_records": 295
+}
