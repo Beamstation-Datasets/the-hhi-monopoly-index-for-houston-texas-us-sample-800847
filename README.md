@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Houston, Texas, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `800847` |
 | Location | Houston |
 | Category | Restaurants |
-| Full dataset size | 295 records |
-| Free sample size | 29 records (9.83%) |
-| Last export | 2026-04-07T18:09:06.920181+00:00 |
+| Full dataset size | 237 records |
+| Free sample size | 23 records (9.7%) |
+| Last export | 2026-04-14T23:28:06.591916+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-houston-texas-us-sample-800847/releases/download/sample-latest/beamstation_800847_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
